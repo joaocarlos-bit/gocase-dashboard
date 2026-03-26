@@ -1,2 +1,2 @@
 # gocase-dashboard
-Dashboard de performance do portfólio Gocase
+Dashboard de Performance
